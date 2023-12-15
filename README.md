@@ -21,3 +21,6 @@ This project attempts to deploy a trading bot to make stock predictions and crea
 # Execution Strategy:
     Clean and scrape data
     Incorporate data into the different models 
+
+# Presentation Link
+https://www.canva.com/design/DAF2_I78VAA/jHAXc8oho_piKiqmgrjiKg/edit
